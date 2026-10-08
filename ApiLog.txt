@@ -1,0 +1,1972 @@
+23-07-2026 10:11:12 GET /swagger/index.html 
+
+23-07-2026 10:11:12 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:11:20 GET /swagger/index.html 
+
+23-07-2026 10:11:20 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:11:20 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:12:37 GET /swagger/index.html 
+
+23-07-2026 10:12:37 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:12:37 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:12:37 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:12:37 GET /swagger/index.js 
+
+23-07-2026 10:12:38 GET /swagger/v1/swagger.json 
+
+23-07-2026 10:12:38 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:14:28 GET /swagger/index.html 
+
+23-07-2026 10:14:28 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:14:28 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:14:28 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:14:28 GET /swagger/index.js 
+
+23-07-2026 10:14:28 GET /swagger/v1/swagger.json 
+
+23-07-2026 10:14:28 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:14:33 GET /swagger/index.html 
+
+23-07-2026 10:14:33 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:14:33 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:14:37 GET /swagger/index.html 
+
+23-07-2026 10:14:37 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:14:37 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:14:37 GET /swagger/index.js 
+
+23-07-2026 10:14:38 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:14:53 GET /swagger/index.html 
+
+23-07-2026 10:14:54 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:15:27 GET /swagger/index.html 
+
+23-07-2026 10:15:27 GET /swagger/index.css 
+
+23-07-2026 10:15:28 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:15:38 GET /swagger/index.html 
+
+23-07-2026 10:15:38 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:15:38 GET /swagger/index.js 
+
+23-07-2026 10:15:38 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:15:47 GET /swagger/index.html 
+
+23-07-2026 10:15:47 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:15:47 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:15:47 GET /swagger/index.js 
+
+23-07-2026 10:15:47 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:16:04 GET /swagger/index.html 
+
+23-07-2026 10:16:04 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:16:04 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:16:04 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:16:04 GET /swagger/index.js 
+
+23-07-2026 10:16:04 GET /swagger/v1/swagger.json 
+
+23-07-2026 10:16:04 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:16:14 GET /swagger/index.html 
+
+23-07-2026 10:16:14 GET /swagger/index.css 
+
+23-07-2026 10:16:14 GET /swagger/index.js 
+
+23-07-2026 10:16:14 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:16:14 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:16:19 GET /swagger/index.html 
+
+23-07-2026 10:16:19 GET /swagger/index.css 
+
+23-07-2026 10:16:19 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:16:19 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:16:19 GET /swagger/index.js 
+
+23-07-2026 10:16:20 GET /swagger/v1/swagger.json 
+
+23-07-2026 10:16:20 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:16:25 GET /swagger/index.html 
+
+23-07-2026 10:16:25 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:16:25 GET /swagger/index.css 
+
+23-07-2026 10:16:25 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:16:26 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:16:28 GET /swagger/index.html 
+
+23-07-2026 10:16:28 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:16:28 GET /swagger/index.css 
+
+23-07-2026 10:16:28 GET /swagger/index.js 
+
+23-07-2026 10:16:28 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:16:47 GET /swagger/index.html 
+
+23-07-2026 10:16:48 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:16:48 GET /swagger/index.css 
+
+23-07-2026 10:16:48 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:16:48 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:17:01 GET /swagger/index.html 
+
+23-07-2026 10:17:01 GET /swagger/index.css 
+
+23-07-2026 10:17:01 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:17:01 GET /swagger/index.js 
+
+23-07-2026 10:17:01 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:17:10 GET /swagger/index.html 
+
+23-07-2026 10:17:10 GET /swagger/index.css 
+
+23-07-2026 10:17:10 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:17:11 GET /swagger/index.js 
+
+23-07-2026 10:17:11 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:17:16 GET /swagger/index.html 
+
+23-07-2026 10:17:17 GET /swagger/index.css 
+
+23-07-2026 10:17:17 GET /swagger/index.js 
+
+23-07-2026 10:17:17 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:19:34 GET /swagger/index.html 
+
+23-07-2026 10:19:34 GET /swagger/index.css 
+
+23-07-2026 10:19:34 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:19:34 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:19:34 GET /swagger/index.js 
+
+23-07-2026 10:19:35 GET /swagger/v1/swagger.json 
+
+23-07-2026 10:19:35 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:19:42 GET /swagger/index.html 
+
+23-07-2026 10:19:42 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:19:42 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:19:50 GET /swagger/index.html 
+
+23-07-2026 10:19:50 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:19:50 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:19:51 GET /swagger/index.js 
+
+23-07-2026 10:19:51 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:19:54 GET /swagger/index.html 
+
+23-07-2026 10:19:54 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:19:54 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:19:54 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:19:55 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:20:02 GET /swagger/index.html 
+
+23-07-2026 10:20:02 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:20:02 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:20:02 GET /swagger/index.css 
+
+23-07-2026 10:20:49 GET /swagger/index.html 
+
+23-07-2026 10:20:49 GET /swagger/index.css 
+
+23-07-2026 10:20:50 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:20:50 GET /swagger/index.js 
+
+23-07-2026 10:20:50 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:21:18 GET /swagger/index.html 
+
+23-07-2026 10:21:18 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:21:18 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:21:18 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:21:18 GET /swagger/index.js 
+
+23-07-2026 10:21:18 GET /swagger/v1/swagger.json 
+
+23-07-2026 10:21:18 GET /swagger/favicon-32x32.png 
+
+23-07-2026 10:21:56 POST /api/VA/UserSignon 
+{
+  "username": "demouser.ph",
+  "lang": "string",
+  "password": "Demoph@001",
+  "typeOfJob": "string",
+  "country": "string",
+  "currency": "string",
+  "savingstype": "string",
+  "divisionid": 0,
+  "enquiryid": 0,
+  "subitemid": 0,
+  "countryId": 0
+}
+23-07-2026 10:36:41 GET /swagger/index.html 
+
+23-07-2026 10:36:42 GET /swagger/swagger-ui.css 
+
+23-07-2026 10:36:42 GET /swagger/index.js 
+
+23-07-2026 10:36:42 GET /swagger/swagger-ui-bundle.js 
+
+23-07-2026 10:36:42 GET /swagger/swagger-ui-standalone-preset.js 
+
+23-07-2026 10:36:43 GET /swagger/v1/swagger.json 
+
+23-07-2026 10:37:31 POST /api/VA/UserSignon 
+{
+  "username": "demouser.ph",
+  "lang": "string",
+  "password": "Demoph@001",
+  "typeOfJob": "string",
+  "country": "string",
+  "currency": "string",
+  "savingstype": "string",
+  "divisionid": 0,
+  "enquiryid": 0,
+  "subitemid": 0,
+  "countryId": 0
+}
+24-08-2026 16:04:45 GET /swagger/index.html 
+
+24-08-2026 16:04:46 GET /swagger/swagger-ui-bundle.js 
+
+24-08-2026 16:04:46 GET /swagger/swagger-ui.css 
+
+24-08-2026 16:04:46 GET /swagger/swagger-ui-standalone-preset.js 
+
+24-08-2026 16:05:05 POST /api/VA/GetDetails 
+{
+  "enquiryid": 96
+}
+24-08-2026 16:11:24 POST /api/VA/GetDetails 
+{
+  "enquiryid": 96
+}
+24-08-2026 16:21:51 GET /swagger/index.html 
+
+24-08-2026 16:21:51 GET /swagger/swagger-ui.css 
+
+24-08-2026 16:21:51 GET /swagger/swagger-ui-bundle.js 
+
+24-08-2026 16:21:52 GET /swagger/index.css 
+
+24-08-2026 16:24:25 POST /api/VA/GetDetails 
+{
+  "enquiryid": 96
+}
+24-08-2026 16:52:25 GET /swagger/index.html 
+
+24-08-2026 16:52:25 GET /swagger/index.js 
+
+24-08-2026 16:52:25 GET /swagger/swagger-ui.css 
+
+24-08-2026 16:52:25 GET /swagger/swagger-ui-standalone-preset.js 
+
+24-08-2026 16:52:25 GET /swagger/index.css 
+
+24-08-2026 16:53:15 OPTIONS /api/VA/EnqLineItemDetails 
+
+24-08-2026 16:56:03 GET /swagger/index.html 
+
+24-08-2026 16:56:04 GET /swagger/swagger-ui-bundle.js 
+
+24-08-2026 16:56:04 GET /swagger/swagger-ui.css 
+
+24-08-2026 16:56:04 GET /swagger/swagger-ui-standalone-preset.js 
+
+24-08-2026 16:56:29 OPTIONS /api/VA/EnqLineItemDetails 
+
+24-08-2026 16:56:51 GET /swagger/index.html 
+
+24-08-2026 16:56:51 GET /swagger/swagger-ui-bundle.js 
+
+24-08-2026 16:56:51 GET /swagger/swagger-ui.css 
+
+24-08-2026 16:56:51 GET /swagger/favicon-32x32.png 
+
+24-08-2026 16:56:52 GET /swagger/index.html 
+
+24-08-2026 16:56:52 GET /swagger/swagger-ui.css 
+
+24-08-2026 16:56:52 GET /swagger/index.js 
+
+24-08-2026 16:56:52 GET /swagger/favicon-32x32.png 
+
+24-08-2026 16:58:38 OPTIONS /api/VA/EnqLineItemDetails 
+
+24-08-2026 16:59:23 OPTIONS /api/VA/EnqLineItemDetails 
+
+24-08-2026 16:59:26 OPTIONS /api/VA/EnqLineItemDetails 
+
+24-08-2026 17:07:19 GET /swagger/index.html 
+
+24-08-2026 17:07:19 GET /swagger/swagger-ui.css 
+
+24-08-2026 17:07:19 GET /swagger/swagger-ui-standalone-preset.js 
+
+24-08-2026 17:07:19 GET /swagger/index.js 
+
+24-08-2026 17:07:26 GET /swagger/swagger-ui.css 
+
+25-08-2026 09:28:51 GET /swagger/index.html 
+
+25-08-2026 09:28:51 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 09:28:51 GET /swagger/index.js 
+
+25-08-2026 09:47:10 GET /swagger/index.html 
+
+25-08-2026 09:47:11 GET /swagger/index.css 
+
+25-08-2026 09:47:11 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 09:47:11 GET /swagger/index.js 
+
+25-08-2026 09:57:18 OPTIONS /api/VA/EnqLineItemDetails 
+
+25-08-2026 09:57:18 POST /api/VA/EnqLineItemDetails 
+{"EnqId":94,"Printornonprint":"Print","ProductCategoryId":1,"localRateCard":"Yes","valueReengineering":"Yes","dictated":"No","urgent":"Urgent","productType":"Repeat/Existing Item","Incoterm":"Others","ItemName":"project","ItemDescription":"project 001","fscpefcmaterial":"N/A","designforrecycle":"N/A","Proposedsustain":"N/A","containplasticNew":"Yes","designreused":"N/A","recycledmaterial":"N/A","recycledplasticNew":"No","plasticweightage":"10","recycledplasticweightage":"","recycledmaterialweightage":"3","Innovation":"No","CatalogueUsage":"N/A","printingmethod":"Continuous","materialused":"Corrugated Plastic","CompetetiveWinningSupplier":"","Version":1,"SpecNote":"specifications","SNote":"","QuoteType":"Quote by Quantity","QuoteTypeindex":1,"QuoteQtyOrSize":"10","FlatSizeLength":"","FlatSizeWidth":"","FlatSizeDandH":"","TotalFlatSize":"0","TotalQtySize":"0","ModifiedBy":1}
+25-08-2026 09:59:58 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 09:59:58 POST /api/VA/GetDetails 
+{"Enquiryid":94}
+25-08-2026 10:05:03 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:05:03 POST /api/VA/GetDetails 
+{"Enquiryid":94}
+25-08-2026 10:07:03 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:07:03 POST /api/VA/GetDetails 
+{"Enquiryid":94}
+25-08-2026 10:07:39 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:07:39 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:10:22 OPTIONS /api/VA/EnqLineItemDetails 
+
+25-08-2026 10:10:22 POST /api/VA/EnqLineItemDetails 
+{"EnqId":89,"Printornonprint":"Print","ProductCategoryId":4,"RateCard":"Yes","reengineering":"Yes","dictated":"Yes","urgent":"Urgent","Itemtype":"New Item","Incoterm":"Others","ItemName":"Testing","ItemDescription":"Testing 003","fscpefcmaterial":"Yes","designforrecycle":"Yes","Proposedsustain":"Yes, Rejected","containplasticNew":"No","designreused":"Yes","recycledmaterial":"No","recycledplasticNew":"Yes","plasticweightage":"","recycledplasticweightage":"20","recycledmaterialweightage":"24","Innovation":"No","CatalogueUsage":"N/A","printingmethod":"Screen","materialused":"Forex Board","CompetetiveWinningSupplier":"","Version":1,"SpecNote":"notes 001","SNote":"commants","QuoteType":"Quote by Quantity","QuoteTypeindex":1,"QuoteQtyOrSize":"10","FlatSizeLength":"","FlatSizeWidth":"","FlatSizeDandH":"","TotalFlatSize":"0","TotalQtySize":"0","ModifiedBy":1}
+25-08-2026 10:10:23 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:10:24 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:11:21 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:11:21 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:11:52 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:11:52 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:12:14 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:12:14 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:12:32 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:12:32 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:17:46 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:17:46 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:18:30 GET /swagger/index.html 
+
+25-08-2026 10:18:31 GET /swagger/swagger-ui-bundle.js 
+
+25-08-2026 10:18:31 GET /swagger/index.css 
+
+25-08-2026 10:18:58 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:18:59 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:21:32 GET /swagger/index.html 
+
+25-08-2026 10:21:32 GET /swagger/swagger-ui-bundle.js 
+
+25-08-2026 10:21:32 GET /swagger/index.css 
+
+25-08-2026 10:21:32 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 10:21:32 GET /swagger/index.js 
+
+25-08-2026 10:21:33 GET /swagger/v1/swagger.json 
+
+25-08-2026 10:22:03 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:22:03 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:55:28 GET /swagger/index.html 
+
+25-08-2026 10:55:28 GET /swagger/swagger-ui.css 
+
+25-08-2026 10:55:29 GET /swagger/index.js 
+
+25-08-2026 10:55:29 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 10:55:29 GET /swagger/swagger-ui-bundle.js 
+
+25-08-2026 10:55:30 GET /swagger/v1/swagger.json 
+
+25-08-2026 10:57:25 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:57:25 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 10:57:53 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 10:57:54 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 11:00:22 GET /swagger/index.html 
+
+25-08-2026 11:00:22 GET /swagger/swagger-ui.css 
+
+25-08-2026 11:00:22 GET /swagger/index.js 
+
+25-08-2026 11:00:40 GET /swagger/swagger-ui.css 
+
+25-08-2026 11:03:13 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 11:03:13 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 11:25:39 GET /swagger/index.html 
+
+25-08-2026 11:25:40 GET /swagger/swagger-ui.css 
+
+25-08-2026 11:25:40 GET /swagger/index.css 
+
+25-08-2026 11:25:40 GET /swagger/swagger-ui-bundle.js 
+
+25-08-2026 11:25:40 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 11:25:40 GET /swagger/index.js 
+
+25-08-2026 11:25:40 GET /swagger/v1/swagger.json 
+
+25-08-2026 11:28:26 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 11:28:26 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 11:28:58 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 11:28:58 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 11:32:23 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 11:32:23 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 11:39:00 GET /swagger/index.html 
+
+25-08-2026 11:39:00 GET /swagger/swagger-ui-bundle.js 
+
+25-08-2026 11:39:00 GET /swagger/index.js 
+
+25-08-2026 11:43:40 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 11:43:40 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 11:59:44 GET /swagger/index.html 
+
+25-08-2026 11:59:45 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 11:59:45 GET /swagger/index.css 
+
+25-08-2026 11:59:54 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:00:01 GET /swagger/index.html 
+
+25-08-2026 12:00:01 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:00:01 GET /.well-known/appspecific/com.chrome.devtools.json 
+
+25-08-2026 12:00:01 GET /swagger/index.css 
+
+25-08-2026 12:00:02 GET /swagger/index.js 
+
+25-08-2026 12:00:03 GET /swagger/favicon-32x32.png 
+
+25-08-2026 12:00:52 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:00:52 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:11:03 GET /swagger/index.html 
+
+25-08-2026 12:11:03 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:23:36 GET /swagger/index.html 
+
+25-08-2026 12:23:36 GET /swagger/index.css 
+
+25-08-2026 12:23:36 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:24:13 GET /swagger 
+
+25-08-2026 12:24:16 GET /swagger/index.html 
+
+25-08-2026 12:24:18 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 12:24:19 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:24:20 GET /swagger/favicon-32x32.png 
+
+25-08-2026 12:25:53 GET /swagger/index.html 
+
+25-08-2026 12:25:54 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 12:25:54 GET /swagger/index.js 
+
+25-08-2026 12:25:54 GET /swagger/index.css 
+
+25-08-2026 12:26:21 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:26:22 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:29:42 GET /swagger/index.html 
+
+25-08-2026 12:29:42 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:29:42 GET /swagger/index.css 
+
+25-08-2026 12:29:42 GET /swagger/index.js 
+
+25-08-2026 12:29:42 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 12:30:11 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:30:11 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:33:38 GET /swagger/index.html 
+
+25-08-2026 12:33:38 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 12:33:38 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:34:25 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:34:25 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:36:12 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:36:12 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:37:16 GET /swagger/index.html 
+
+25-08-2026 12:37:17 GET /swagger/swagger-ui-standalone-preset.js 
+
+25-08-2026 12:37:17 GET /swagger/index.css 
+
+25-08-2026 12:37:17 GET /swagger/swagger-ui.css 
+
+25-08-2026 12:37:17 GET /swagger/swagger-ui-bundle.js 
+
+25-08-2026 12:37:33 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:37:33 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:38:32 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:38:32 POST /api/VA/GetDetails 
+{"Enquiryid":94}
+25-08-2026 12:38:49 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:38:49 POST /api/VA/GetDetails 
+{"Enquiryid":94}
+25-08-2026 12:39:01 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:39:01 POST /api/VA/GetDetails 
+{"Enquiryid":96}
+25-08-2026 12:39:27 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:39:27 POST /api/VA/GetDetails 
+{"Enquiryid":94}
+25-08-2026 12:39:56 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:39:56 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:40:08 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:40:08 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:40:24 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:40:24 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:42:03 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:42:03 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 12:53:02 OPTIONS /api/VA/GetDetails 
+
+25-08-2026 12:53:02 POST /api/VA/GetDetails 
+{"Enquiryid":89}
+25-08-2026 17:35:40 GET /swagger/index.html 
+
+25-08-2026 17:35:43 GET /swagger/swagger-ui-bundle.js 
+
+25-08-2026 17:35:44 GET /swagger/index.js 
+
+01-09-2026 14:12:57 GET /swagger/index.html 
+
+01-09-2026 14:12:58 GET /swagger/index.css 
+
+01-09-2026 14:12:58 GET /swagger/swagger-ui-standalone-preset.js 
+
+01-09-2026 14:12:58 GET /swagger/swagger-ui.css 
+
+01-09-2026 14:12:59 GET /swagger/favicon-32x32.png 
+
+01-09-2026 14:14:41 POST /api/VA/GetPreviewQuotes 
+{
+  "enqId": 96
+}
+01-09-2026 14:15:58 POST /api/VA/GetPreviewQuotes 
+{
+  "enqId": 96
+}
+01-09-2026 14:18:42 GET /swagger/index.html 
+
+01-09-2026 14:18:43 GET /swagger/swagger-ui-bundle.js 
+
+01-09-2026 14:18:44 GET /swagger/swagger-ui-standalone-preset.js 
+
+01-09-2026 14:18:44 GET /swagger/swagger-ui.css 
+
+01-09-2026 14:28:35 POST /api/VA/GetPreviewQuotes 
+{
+  "enquiryid": 96
+}
+01-09-2026 14:30:46 GET /swagger/index.html 
+
+01-09-2026 14:30:50 GET /swagger/swagger-ui.css 
+
+01-09-2026 14:30:51 GET /swagger/swagger-ui-bundle.js 
+
+01-09-2026 14:30:52 GET /swagger/index.css 
+
+01-09-2026 14:30:52 GET /swagger/swagger-ui-standalone-preset.js 
+
+01-09-2026 14:30:53 GET /swagger/index.js 
+
+01-09-2026 14:31:59 GET /swagger/v1/swagger.json 
+
+01-09-2026 14:32:06 GET /swagger/favicon-32x32.png 
+
+01-09-2026 15:26:33 GET /swagger/index.html 
+
+01-09-2026 15:26:33 GET /swagger/swagger-ui-standalone-preset.js 
+
+01-09-2026 15:26:33 GET /swagger/swagger-ui-bundle.js 
+
+01-09-2026 15:26:33 GET /swagger/index.js 
+
+01-09-2026 15:26:34 GET /swagger/swagger-ui.css 
+
+01-09-2026 15:26:34 GET /swagger/v1/swagger.json 
+
+01-09-2026 15:28:43 GET /swagger/index.html 
+
+01-09-2026 15:28:44 GET /swagger/index.css 
+
+01-09-2026 15:28:44 GET /swagger/swagger-ui.css 
+
+01-09-2026 15:28:44 GET /swagger/index.js 
+
+01-09-2026 15:29:16 POST /api/VA/GetPreviewQuotes 
+{
+  "enquiryid": 96
+}
+01-09-2026 15:38:27 GET /swagger/index.html 
+
+01-09-2026 15:38:27 GET /swagger/swagger-ui.css 
+
+01-09-2026 15:38:28 GET /swagger/swagger-ui-standalone-preset.js 
+
+01-09-2026 15:38:28 GET /swagger/index.js 
+
+01-09-2026 16:07:39 POST /api/VA/GetPreviewQuotes 
+{
+  "enquiryid": 96
+}
+01-09-2026 16:10:30 POST /api/VA/GetPreviewQuotes 
+{
+  "enquiryid": 102
+}
+01-09-2026 16:25:52 GET /swagger/index.html 
+
+01-09-2026 16:25:52 GET /swagger/swagger-ui-standalone-preset.js 
+
+01-09-2026 16:25:52 GET /swagger/index.css 
+
+01-09-2026 16:25:52 GET /swagger/swagger-ui-bundle.js 
+
+01-09-2026 16:25:53 GET /swagger/index.js 
+
+01-09-2026 16:25:54 GET /swagger/v1/swagger.json 
+
+01-09-2026 16:26:16 GET /swagger/index.html 
+
+01-09-2026 16:26:16 GET /swagger/swagger-ui-standalone-preset.js 
+
+01-09-2026 16:26:16 GET /swagger/swagger-ui.css 
+
+01-09-2026 16:26:16 GET /swagger/index.css 
+
+01-09-2026 16:26:16 GET /swagger/index.js 
+
+01-09-2026 16:26:16 GET /swagger/favicon-32x32.png 
+
+01-09-2026 16:29:39 POST /api/VA/GetPreviewQuotes 
+{
+  "enquiryid": 102
+}
+01-09-2026 16:42:10 GET /swagger/index.html 
+
+01-09-2026 16:42:10 GET /swagger/swagger-ui-bundle.js 
+
+01-09-2026 16:42:11 GET /swagger/index.css 
+
+01-09-2026 16:43:46 POST /api/VA/GetPreviewQuotes 
+{
+  "enquiryid": 102
+}
+01-09-2026 16:44:49 POST /api/VA/GetPreviewQuotes 
+{
+  "enquiryid": 102
+}
+03-09-2026 13:50:42 GET /swagger/index.html 
+
+03-09-2026 13:50:42 GET /swagger/swagger-ui.css 
+
+03-09-2026 13:56:53 GET /swagger/index.html 
+
+03-09-2026 13:56:54 GET /swagger/index.css 
+
+03-09-2026 13:56:54 GET /swagger/swagger-ui-bundle.js 
+
+03-09-2026 13:56:54 GET /swagger/swagger-ui.css 
+
+03-09-2026 13:56:54 GET /swagger/swagger-ui-standalone-preset.js 
+
+03-09-2026 13:56:54 GET /swagger/index.js 
+
+03-09-2026 13:57:04 GET /swagger/v1/swagger.json 
+
+03-09-2026 14:22:39 GET /swagger/index.html 
+
+03-09-2026 14:22:39 GET /swagger/swagger-ui.css 
+
+03-09-2026 14:22:39 GET /swagger/swagger-ui-bundle.js 
+
+03-09-2026 14:22:40 GET /swagger/index.css 
+
+03-09-2026 14:22:47 POST /api/VA/GetCallApiPAPM 
+{
+  "enquiryId": "ENQ000102",
+  "userName" : "demouser.ph",
+  "projectId" : "7816f395-6673-4670-9dd9-c3840d5fbf7b"
+
+
+}
+03-09-2026 14:24:48 POST /api/VA/GetCallApiPAPM 
+{
+  "enquiryId": "ENQ000088",
+  "userName" : "demouser.ph",
+  "projectId" : "7816f395-6673-4670-9dd9-c3840d5fbf7b"
+
+
+}
+03-09-2026 14:27:54 POST /api/VA/GetDetails 
+{
+  "enquiryId": "ENQ000088"
+
+}
+03-09-2026 14:28:09 POST /api/VA/GetDetails 
+{
+  "enquiryId": 88
+}
+03-09-2026 15:43:43 GET /swagger/index.html 
+
+03-09-2026 15:43:43 GET /swagger/index.css 
+
+03-09-2026 15:43:43 GET /swagger/swagger-ui-bundle.js 
+
+03-09-2026 15:43:44 GET /swagger/swagger-ui-standalone-preset.js 
+
+03-09-2026 15:43:44 GET /swagger/index.js 
+
+03-09-2026 15:43:46 GET /swagger/v1/swagger.json 
+
+03-09-2026 15:45:06 POST /api/VA/GetRedirectToPAPM 
+{
+  "enquiryId": "ENQ000088",
+  "userName": "demouser.ph",
+  "projectId" : "7816f395-6673-4670-9dd9-c3840d5fbf7b"
+}
+03-09-2026 16:17:55 GET /swagger/index.html 
+
+03-09-2026 16:17:55 GET /swagger/swagger-ui.css 
+
+03-09-2026 16:17:55 GET /swagger/index.css 
+
+03-09-2026 16:17:55 GET /swagger/swagger-ui-bundle.js 
+
+03-09-2026 16:17:55 GET /swagger/favicon-32x32.png 
+
+03-09-2026 16:29:03 POST /api/VA/GetRedirectToPAPM 
+{
+  "enquiryId": "ENQ000088",
+  "userName": "demouser.ph",
+  "projectId" : "7816f395-6673-4670-9dd9-c3840d5fbf7b"
+}
+03-09-2026 16:30:06 GET /swagger/index.html 
+
+03-09-2026 16:30:07 GET /swagger/swagger-ui.css 
+
+03-09-2026 16:30:07 GET /swagger/index.js 
+
+03-09-2026 16:30:30 POST /api/VA/GetRedirectToPAPM 
+{
+  "enquiryId": "ENQ000088",
+  "userName": "demouser.ph",
+  "projectId" : "7816f395-6673-4670-9dd9-c3840d5fbf7b"
+}
+03-09-2026 16:59:50 GET /swagger/index.html 
+
+03-09-2026 16:59:51 GET /swagger/index.css 
+
+03-09-2026 16:59:51 GET /swagger/swagger-ui-standalone-preset.js 
+
+03-09-2026 17:27:53 GET /swagger/index.html 
+
+03-09-2026 17:27:54 GET /swagger/swagger-ui.css 
+
+03-09-2026 17:29:59 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+03-09-2026 17:42:12 GET /swagger/index.html 
+
+03-09-2026 17:42:13 GET /swagger/swagger-ui-bundle.js 
+
+03-09-2026 17:42:13 GET /swagger/swagger-ui.css 
+
+03-09-2026 17:42:26 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+03-09-2026 17:52:57 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+03-09-2026 17:57:43 GET /swagger/index.html 
+
+03-09-2026 17:57:44 GET /swagger/swagger-ui-bundle.js 
+
+03-09-2026 17:57:44 GET /swagger/index.css 
+
+03-09-2026 17:57:44 GET /swagger/index.js 
+
+03-09-2026 17:57:57 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+03-09-2026 17:58:51 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+07-09-2026 10:32:14 GET /swagger 
+
+07-09-2026 10:32:14 GET /swagger/index.html 
+
+07-09-2026 10:32:17 GET /swagger/swagger-ui.css 
+
+07-09-2026 10:32:17 GET /swagger/swagger-ui-bundle.js 
+
+07-09-2026 10:32:18 GET /swagger/index.js 
+
+07-09-2026 10:32:21 GET /swagger/favicon-32x32.png 
+
+07-09-2026 10:40:31 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+07-09-2026 10:41:16 GET /swagger/index.html 
+
+07-09-2026 10:41:16 GET /swagger/swagger-ui-standalone-preset.js 
+
+07-09-2026 10:41:16 GET /swagger/index.js 
+
+07-09-2026 10:41:16 GET /swagger/swagger-ui-bundle.js 
+
+07-09-2026 10:41:16 GET /swagger/v1/swagger.json 
+
+07-09-2026 10:41:19 GET /swagger/index.html 
+
+07-09-2026 10:41:19 GET /swagger/swagger-ui-standalone-preset.js 
+
+07-09-2026 10:41:19 GET /swagger/favicon-32x32.png 
+
+07-09-2026 10:44:21 GET /swagger/index.html 
+
+07-09-2026 10:44:22 GET /swagger 
+
+07-09-2026 10:44:22 GET /swagger/index.html 
+
+07-09-2026 10:44:22 GET /swagger/swagger-ui.css 
+
+07-09-2026 10:44:22 GET /swagger/index.css 
+
+07-09-2026 10:44:22 GET /swagger/swagger-ui-bundle.js 
+
+07-09-2026 10:44:23 GET /swagger/favicon-32x32.png 
+
+07-09-2026 10:44:38 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+07-09-2026 10:55:28 GET /swagger/index.html 
+
+07-09-2026 10:55:28 GET /swagger/swagger-ui.css 
+
+07-09-2026 10:55:28 GET /swagger/swagger-ui-bundle.js 
+
+07-09-2026 10:55:28 GET /swagger/swagger-ui-standalone-preset.js 
+
+07-09-2026 10:55:28 GET /swagger/index.js 
+
+07-09-2026 10:55:38 GET /swagger/v1/swagger.json 
+
+07-09-2026 10:55:38 GET /swagger/favicon-32x32.png 
+
+07-09-2026 11:21:48 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+07-09-2026 11:28:22 GET /swagger/index.html 
+
+07-09-2026 11:28:22 GET /swagger/swagger-ui-standalone-preset.js 
+
+07-09-2026 11:28:22 GET /swagger/index.js 
+
+07-09-2026 11:28:23 GET /swagger/swagger-ui.css 
+
+07-09-2026 11:28:23 GET /swagger/index.css 
+
+07-09-2026 17:46:49 GET /swagger/index.html 
+
+07-09-2026 17:46:49 GET /swagger/index.css 
+
+07-09-2026 17:46:50 GET /swagger/swagger-ui-standalone-preset.js 
+
+07-09-2026 17:46:50 GET /swagger/index.js 
+
+08-09-2026 10:23:51 GET /swagger/index.html 
+
+08-09-2026 10:23:52 GET /swagger/index.css 
+
+08-09-2026 10:23:52 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:23:52 GET /swagger/index.js 
+
+08-09-2026 10:24:12 GET /swagger/index.html 
+
+08-09-2026 10:24:12 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:24:12 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:24:12 GET /swagger/index.js 
+
+08-09-2026 10:24:12 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:26:01 GET /swagger/index.html 
+
+08-09-2026 10:26:01 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:26:01 GET /swagger/index.js 
+
+08-09-2026 10:26:01 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:26:01 GET /swagger/index.css 
+
+08-09-2026 10:26:02 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:27:14 GET /swagger/index.html 
+
+08-09-2026 10:27:14 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:27:14 GET /swagger/index.js 
+
+08-09-2026 10:27:14 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:27:15 GET /swagger/v1/swagger.json 
+
+08-09-2026 10:27:58 GET /swagger/v1/swagger.json 
+
+08-09-2026 10:27:59 GET /favicon.ico 
+
+08-09-2026 10:28:28 GET /swagger/v1/swagger.json 
+
+08-09-2026 10:28:47 GET /swagger/index.html 
+
+08-09-2026 10:28:47 GET /swagger/index.css 
+
+08-09-2026 10:28:47 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:28:47 GET /swagger/index.js 
+
+08-09-2026 10:28:47 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:28:51 GET /swagger/index.html 
+
+08-09-2026 10:28:51 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:28:51 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:29:00 GET /swagger/index.html 
+
+08-09-2026 10:29:00 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:29:00 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:29:00 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:31:06 GET /swagger/index.html 
+
+08-09-2026 10:31:06 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:31:06 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:31:06 GET /swagger/index.js 
+
+08-09-2026 10:31:06 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:31:09 GET /swagger/index.html 
+
+08-09-2026 10:31:09 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:31:09 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:31:09 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:31:10 GET /swagger/index.html 
+
+08-09-2026 10:31:10 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:31:10 GET /swagger/index.css 
+
+08-09-2026 10:31:10 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:31:11 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:31:12 GET /swagger/index.html 
+
+08-09-2026 10:31:12 GET /swagger/index.css 
+
+08-09-2026 10:31:12 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:31:13 GET /swagger/index.html 
+
+08-09-2026 10:31:13 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:31:13 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:31:14 GET /swagger/index.html 
+
+08-09-2026 10:31:14 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:31:14 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:31:14 GET /swagger/index.js 
+
+08-09-2026 10:31:14 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:31:15 GET /swagger/index.html 
+
+08-09-2026 10:31:15 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:31:15 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:31:15 GET /swagger/index.css 
+
+08-09-2026 10:31:15 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:32:17 GET /swagger/index.html 
+
+08-09-2026 10:32:17 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:32:17 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:32:17 GET /swagger/index.js 
+
+08-09-2026 10:32:26 GET /swagger/index.html 
+
+08-09-2026 10:32:26 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:32:26 GET /swagger/index.js 
+
+08-09-2026 10:32:26 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:32:27 GET /swagger/index.html 
+
+08-09-2026 10:32:27 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:32:27 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:32:28 GET /swagger/index.html 
+
+08-09-2026 10:32:28 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:32:28 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:32:28 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:32:33 GET /swagger/index.html 
+
+08-09-2026 10:32:33 GET /swagger/index.css 
+
+08-09-2026 10:32:33 GET /swagger/swagger-ui-bundle.js 
+
+08-09-2026 10:32:34 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:32:39 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:32:39 GET /swagger/index.css 
+
+08-09-2026 10:32:51 GET /swagger/index.html 
+
+08-09-2026 10:32:51 GET /swagger/index.css 
+
+08-09-2026 10:32:51 GET /swagger/index.js 
+
+08-09-2026 10:32:51 GET /.well-known/appspecific/com.chrome.devtools.json 
+
+08-09-2026 10:32:51 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:32:59 GET /swagger/index.html 
+
+08-09-2026 10:32:59 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:32:59 GET /swagger/swagger-ui-standalone-preset.js 
+
+08-09-2026 10:32:59 GET /.well-known/appspecific/com.chrome.devtools.json 
+
+08-09-2026 10:33:00 GET /swagger/favicon-32x32.png 
+
+08-09-2026 10:33:41 GET /swagger/index.html 
+
+08-09-2026 10:33:42 GET /swagger/swagger-ui.css 
+
+08-09-2026 10:33:42 GET /swagger/index.css 
+
+08-09-2026 10:33:42 GET /swagger/index.js 
+
+08-09-2026 10:33:44 GET /swagger/index.css 
+
+08-09-2026 10:33:44 GET /.well-known/appspecific/com.chrome.devtools.json 
+
+08-09-2026 10:52:35 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": 1,
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 11:02:03 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": 1,
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 11:02:52 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": 1,
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 11:10:18 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": 1,
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 11:26:11 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": 1,
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 12:45:18 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": "Enquiries",
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 12:51:08 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": "Enquiries",
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 13:28:37 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": "Enquiries",
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 13:29:44 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": "Enquiries",
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 13:30:26 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": "Enquiries",
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 13:56:17 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": "Enquiries",
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 14:06:49 POST /api/VA/GetReport 
+{
+  "startDate": "",
+  "endDate": "",
+  "role": "ClientServices",
+  "userClientId": 0,
+  "countryId": 0,
+  "reportType": "Enquiries",
+  "clientName": "demouser.ph",
+  "businessUnit": "",
+  "statusFrom": "",
+  "statusTo": "",
+  "tco": "",
+  "userType": "Agency"
+}
+08-09-2026 16:43:42 OPTIONS /api//VA/GetReport 
+
+08-09-2026 16:43:42 POST /api//VA/GetReport 
+{"role":"ClientServices","userClientId":1,"countryId":"","reportType":"Enquries","clientName":"","tco":"","userType":"Agency"}
+08-09-2026 16:51:08 OPTIONS /api/VA/GetReport 
+
+08-09-2026 16:51:08 POST /api/VA/GetReport 
+{"startDate":"01-09-2026","endDate":"08-09-2026","role":"ClientServices","userClientId":1,"countryId":"","reportType":"Enquries","clientName":"","tco":"","userType":"Agency"}
+08-09-2026 16:53:38 OPTIONS /api/VA/GetReport 
+
+08-09-2026 16:53:38 POST /api/VA/GetReport 
+{"startDate":"01-09-2026","endDate":"08-09-2026","role":"ClientServices","userClientId":1,"reportType":"Enquries","clientName":"","tco":"","userType":"Agency"}
+08-09-2026 16:57:05 OPTIONS /api/VA/GetReport 
+
+08-09-2026 16:57:05 POST /api/VA/GetReport 
+{"startDate":"01-09-2026","endDate":"08-09-2026","role":"ClientServices","userClientId":1,"reportType":"Enquries","clientName":"","tco":"","userType":"Agency"}
+10-09-2026 11:48:45 POST /api/VA/MasterDropdowns 
+{
+  "userCountryId": 10,
+  "role": "ClientServices",
+  "userid": 1
+}
+10-09-2026 11:50:01 POST /api/VA/MasterDropdowns 
+{
+  "userCountryId": 10,
+  "role": "ClientServices",
+  "userid": 1
+}
+10-09-2026 16:13:12 POST /api/VA/EnqLineItemDetails 
+{
+    "EnqId": 78,
+    "EnqdetailsId": 0,
+    "Printornonprint": "Print",
+    "ProductCategoryId": 2,
+    "RateCard": "Yes",
+    "reengineering": "No",
+    "dictated": "Yes",
+    "urgent": "Urgent",
+    "Itemtype": "New Item",
+    "Incoterm": "",
+    "ItemName": "project",
+    "ItemDescription": "Project 78",
+    "fscpefcmaterial": "N/A",
+    "designforrecycle": "N/A",
+    "Proposedsustain": "N/A",
+    "containplasticNew": "No",
+    "designreused": "N/A",
+    "recycledmaterial": "N/A",
+    "recycledplasticNew": "No",
+    "plasticweightage": "",
+    "recycledplasticweightage": "",
+    "recycledmaterialweightage": "10",
+    "Innovation": "No",
+    "CatalogueUsage": "N/A",
+    "printingmethod": "Flexo",
+    "materialused": "Corrugated Plastic",
+    "CompetetiveWinningSupplier": "",
+    "Version": 1,
+    "SpecNote": "spacifictions 1 * 1",
+    "SNote": "",
+    "QuoteType": "Quote by Quantity",
+    "QuoteTypeindex": 1,
+    "QuoteQtyOrSize": "10",
+    "FlatSizeLength": "",
+    "FlatSizeWidth": "",
+    "FlatSizeDandH": "",
+    "TotalFlatSize": "0",
+    "TotalQtySize": "0",
+    "ModifiedBy": 1
+}
+10-09-2026 16:14:57 POST /api/VA/EnqLineItemDetails 
+{
+    "EnqId": 78,
+    "EnqdetailsId": 0,
+    "Printornonprint": "Print",
+    "ProductCategoryId": 2,
+    "RateCard": "Yes",
+    "reengineering": "No",
+    "dictated": "Yes",
+    "urgent": "Urgent",
+    "Itemtype": "New Item",
+    "Incoterm": "",
+    "ItemName": "project",
+    "ItemDescription": "Project 78",
+    "fscpefcmaterial": "N/A",
+    "designforrecycle": "N/A",
+    "Proposedsustain": "N/A",
+    "containplasticNew": "No",
+    "designreused": "N/A",
+    "recycledmaterial": "N/A",
+    "recycledplasticNew": "No",
+    "plasticweightage": "",
+    "recycledplasticweightage": "",
+    "recycledmaterialweightage": "10",
+    "Innovation": "No",
+    "CatalogueUsage": "N/A",
+    "printingmethod": "Flexo",
+    "materialused": "Corrugated Plastic",
+    "CompetetiveWinningSupplier": "",
+    "Version": 1,
+    "SpecNote": "spacifictions 1 * 1",
+    "SNote": "",
+    "QuoteType": "Quote by Quantity",
+    "QuoteTypeindex": 1,
+    "QuoteQtyOrSize": "10",
+    "FlatSizeLength": "",
+    "FlatSizeWidth": "",
+    "FlatSizeDandH": "",
+    "TotalFlatSize": "0",
+    "TotalQtySize": "0",
+    "ModifiedBy": 1
+}
+17-09-2026 15:19:45 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 15:22:44 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 15:35:03 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 15:36:13 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 15:50:27 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 15:53:19 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 16:01:05 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 16:03:55 POST /api/VA/GetRedirectToPAPM 
+{
+    "enquiryId": "ENQ000071",
+    "userName": "demouser.ph",
+    "projectId": "342bf3a4-49ea-4220-be3c-fb07ec5193cd"
+}
+17-09-2026 16:11:59 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+17-09-2026 16:15:43 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+17-09-2026 16:19:09 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+18-09-2026 09:57:04 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+18-09-2026 10:21:19 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+18-09-2026 10:58:27 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+18-09-2026 11:01:27 POST /api/VA/UpdateJobSummary 
+{
+    "enqId": 51,
+    "modifiedBy": 1,
+    "createdBy": 1,
+    "clientContactId": 24,
+    "projectNo": "TestProjPAPMToVA2",
+    "projectDesc": "TestProjPAPMToVA2",
+    "estdate": "31/12/2025",
+    "briefdate": "25/11/2025",
+    "Action": "Update",
+    "invoiceNumber": "",
+    "poNumber": "PO123456",
+    "actualdeliverydate": "31/12/2025",
+    "raisedDate": "",
+    "invoiceDate": "",
+    "statusId": 7,
+    "portal": "PAPM"
+}
+24-09-2026 13:27:41 POST /api/VA/ChangePassword 
+{
+    "username": "test1",
+    "password": "password",
+    "newPassword": "password@01"
+}
+25-09-2026 10:44:26 POST /api/VA/EnqLineItemDetails 
+{
+    "EnqdetailsId": 141,
+    "EnqId": 112,
+    "ItemName": "nam1",
+    "ItemDescription": "desc1",
+    "PromoOSSOrderWindows": "",
+    "CatalogueUsage": "N/A",
+    "printingmethod": "Flexo",
+    "DigitalInnovation": "",
+    "Innovation": "No",
+    "Sourcinglocation": "",
+    "harmonizedOrder": "Yes",
+    "Version": 1,
+    "SpecNote": "Spec1",
+    "SNote": "Notes1",
+    "QuoteQtyOrSize": "80",
+    "ModifiedBy": 1,
+    "productcategory": "Display Boxes"
+}
+25-09-2026 10:44:56 POST /api/VA/EnqLineItemDetails 
+{
+    "EnqdetailsId": 141,
+    "EnqId": 112,
+    "ItemName": "nam1",
+    "ItemDescription": "desc1",
+    "PromoOSSOrderWindows": "",
+    "CatalogueUsage": "N/A",
+    "printingmethod": "Flexo",
+    "DigitalInnovation": "",
+    "Innovation": "No",
+    "Sourcinglocation": "",
+    "harmonizedOrder": "Yes",
+    "Version": 1,
+    "SpecNote": "Spec1",
+    "SNote": "Notes1",
+    "QuoteQtyOrSize": "80",
+    "ModifiedBy": 1,
+    "productcategory": "Display Boxes"
+}
+25-09-2026 10:46:13 POST /api/VA/EnqLineItemDetails 
+{
+    "EnqdetailsId": 141,
+    "EnqId": 112,
+    "ItemName": "nam1",
+    "ItemDescription": "desc1",
+    "PromoOSSOrderWindows": "",
+    "CatalogueUsage": "N/A",
+    "printingmethod": "Flexo",
+    "DigitalInnovation": "",
+    "Innovation": "No",
+    "Sourcinglocation": "",
+    "harmonizedOrder": "Yes",
+    "Version": 1,
+    "SpecNote": "Spec1",
+    "SNote": "Notes1",
+    "QuoteQtyOrSize": "80",
+    "ModifiedBy": 1,
+    "productcategory": "Display Boxes"
+}
+25-09-2026 10:53:59 POST /api/VA/EnqLineItemDetails 
+{
+    "EnqdetailsId": 141,
+    "EnqId": 112,
+    "ItemName": "nam1",
+    "ItemDescription": "desc1",
+    "PromoOSSOrderWindows": "",
+    "CatalogueUsage": "N/A",
+    "printingmethod": "Flexo",
+    "DigitalInnovation": "",
+    "Innovation": "No",
+    "Sourcinglocation": "",
+    "harmonizedOrder": "Yes",
+    "Version": 1,
+    "SpecNote": "Spec1",
+    "SNote": "Notes1",
+    "QuoteQtyOrSize": "80",
+    "ModifiedBy": 1,
+    "productCategoryId": 1
+}
+29-09-2026 13:43:57 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 13:44:16 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 13:44:59 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 13:45:53 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 13:56:07 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 14:11:37 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 14:13:43 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 14:15:24 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+29-09-2026 14:17:25 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+30-09-2026 10:56:48 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
+30-09-2026 11:04:37 POST /api/VA/GetProjectDetails 
+{
+    "enquiryid": 117,
+    "Currency": "PHP",
+    "Country": "Philippines"
+}
